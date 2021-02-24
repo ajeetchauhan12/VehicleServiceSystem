@@ -269,7 +269,7 @@ public class App
    	   	}
    	 	boolean flag4= true;
    	   	while(flag4) {
-   	   		System.out.println("Enter\n1-->Delete Customer"
+   	   		System.out.println("Enter\n1-->Delete Customer details"
    	       			+ "\n2-->Delete  Mechanic"
    	       			+ "\n3-->Delete  Vehicle"
    	       			+ "\n4-->Delete   JobCard"
