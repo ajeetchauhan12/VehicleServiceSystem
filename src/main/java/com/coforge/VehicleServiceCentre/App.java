@@ -143,7 +143,7 @@ public class App
    	}
    		boolean flag1= true;
    	   	while(flag1) {
-   	   		System.out.println("Enter\n1-->Retreive Customer"
+   	   		System.out.println("Enter\n1-->Retreive Customer details"
    	       			+ "\n2-->Retreive Mechanic"
    	       			+ "\n3-->Retreive Vehicle"
    	       			+ "\n4-->Retreive JobCard"
