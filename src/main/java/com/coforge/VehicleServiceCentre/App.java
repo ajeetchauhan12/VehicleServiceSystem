@@ -227,7 +227,7 @@ public class App
    	   	}
    	   	boolean flag3= true;
    	   	while(flag3) {
-   	   		System.out.println("Enter\n1-->Update Customer"
+   	   		System.out.println("Enter\n1-->Update Customer details"
    	       			+ "\n2-->Update Mechanic"
    	       			+ "\n3-->Update Vehicle"
    	       			+ "\n4-->Update  JobCard"
